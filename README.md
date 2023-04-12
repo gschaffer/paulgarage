@@ -1,2 +1,2 @@
-# paulgarajeok.github.io
+# paulgarajeok
 Paul Garaje OK
